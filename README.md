@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning at DTU to be a mechanical engineer
 <!--
 **Magnus2207/Magnus2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
